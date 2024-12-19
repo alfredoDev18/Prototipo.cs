@@ -1,0 +1,16 @@
+C:\Users\casas\source\repos\1111\bin\Debug\net9.0-windows\1111.exe
+C:\Users\casas\source\repos\1111\bin\Debug\net9.0-windows\1111.deps.json
+C:\Users\casas\source\repos\1111\bin\Debug\net9.0-windows\1111.runtimeconfig.json
+C:\Users\casas\source\repos\1111\bin\Debug\net9.0-windows\1111.dll
+C:\Users\casas\source\repos\1111\bin\Debug\net9.0-windows\1111.pdb
+C:\Users\casas\source\repos\1111\obj\Debug\net9.0-windows\_1111.Form1.resources
+C:\Users\casas\source\repos\1111\obj\Debug\net9.0-windows\1111.csproj.GenerateResource.cache
+C:\Users\casas\source\repos\1111\obj\Debug\net9.0-windows\1111.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casas\source\repos\1111\obj\Debug\net9.0-windows\1111.AssemblyInfoInputs.cache
+C:\Users\casas\source\repos\1111\obj\Debug\net9.0-windows\1111.AssemblyInfo.cs
+C:\Users\casas\source\repos\1111\obj\Debug\net9.0-windows\1111.csproj.CoreCompileInputs.cache
+C:\Users\casas\source\repos\1111\obj\Debug\net9.0-windows\1111.dll
+C:\Users\casas\source\repos\1111\obj\Debug\net9.0-windows\refint\1111.dll
+C:\Users\casas\source\repos\1111\obj\Debug\net9.0-windows\1111.pdb
+C:\Users\casas\source\repos\1111\obj\Debug\net9.0-windows\1111.genruntimeconfig.cache
+C:\Users\casas\source\repos\1111\obj\Debug\net9.0-windows\ref\1111.dll
